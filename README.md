@@ -16,9 +16,11 @@ Command version - v0.1.0
     
 ![1](https://github.com/saindhyan/internsctl/assets/87525527/b2f961fa-5262-4ea5-84a5-0b0d67752df5)
 
+
 ## Command internsctl --help
 
 -  --help     Display help and examples
+  
 ![2](https://github.com/saindhyan/internsctl/assets/87525527/b2f961fa-5262-4ea5-84a5-0b0d67752df5)
 
 
