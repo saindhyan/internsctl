@@ -9,7 +9,7 @@ Command version - v0.1.0
 
 
 
-## Command $ man internsctl
+## Command ``` $ man internsctl ```
 
 -  --help     Display help and examples
 - --version  Display command version
