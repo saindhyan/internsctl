@@ -19,7 +19,7 @@ Command version - v0.1.0
 ## Command internsctl --help
 
 -  --help     Display help and examples
-![2](https://github.com/saindhyan/internsctl/assets/87525527/fe3a8d66-2b4f-4153-84b7-577ffb5f3afd)
+![2](https://github.com/saindhyan/internsctl/assets/87525527/b2f961fa-5262-4ea5-84a5-0b0d67752df5)
 
 
 
