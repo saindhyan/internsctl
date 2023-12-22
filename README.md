@@ -17,32 +17,32 @@
 ## Command internsctl --version
 - --version  Display command version
 - 
-    ## Command internsctl memory getinfo
+## Command internsctl memory getinfo
 -  memory getinfo         : Get memory information of the server.
 
 -  
-    ## Command  internsctl cpu getinfo
+## Command  internsctl cpu getinfo
 
 -  cpu getinfo            : Get CPU information of the server.
 
-      ## Command internsctl user create <username>
+## Command internsctl user create <username>
 
 -  cpu getinfo            : Get CPU information of the server.
 
-      ## Command internsctl user list
+## Command internsctl user list
 
 -  cpu getinfo            : Get CPU information of the server.
 
-      ## Commandi nternsctl user list --sudo-only
+## Commandi nternsctl user list --sudo-only
 
 -  cpu getinfo            : Get CPU information of the server.
 
 
-      ## Command internsctl file getinfo <file-name>
+## Command internsctl file getinfo <file-name>
 
 -  cpu getinfo            : Get CPU information of the server.
 
-      ## Command internsctl file getinfo [options] <file-name>
+## Command internsctl file getinfo [options] <file-name>
 
 -  cpu getinfo            : Get CPU information of the server.
 
