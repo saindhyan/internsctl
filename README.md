@@ -16,7 +16,8 @@
 
 ## Command internsctl --version
 - --version  Display command version
-- 
+  ![1](https://github.com/saindhyan/internsctl/assets/87525527/188ac0dd-bd5b-4cc2-a6b0-00b2d00b4e49)
+
 ## Command internsctl memory getinfo
 -  memory getinfo         : Get memory information of the server.
 
