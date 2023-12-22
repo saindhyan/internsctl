@@ -4,6 +4,11 @@
 Command name - internsctl
 Command version - v0.1.0
 
+## Script flow
+![flow](https://github.com/saindhyan/internsctl/assets/87525527/2f956d97-f5fd-4645-9b6d-3dcd52a428dd)
+
+
+
 ## Command man internsctl
 
 -  --help     Display help and examples
