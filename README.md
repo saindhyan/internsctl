@@ -14,7 +14,7 @@
 
 -  --help     Display help and examples
 
-   ## Command internsctl --version
+## Command internsctl --version
 - --version  Display command version
 - 
     ## Command internsctl memory getinfo
