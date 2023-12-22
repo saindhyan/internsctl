@@ -37,7 +37,7 @@ Command version - v0.1.0
 ## Command  internsctl cpu getinfo
 
 -  cpu getinfo            : Get CPU information of the server.
--  ![5](https://github.com/saindhyan/internsctl/assets/87525527/bf861821-2532-4fd4-92b0-32c0137b5462)
+ ![5](https://github.com/saindhyan/internsctl/assets/87525527/bf861821-2532-4fd4-92b0-32c0137b5462)
 
 ## Command internsctl user create <username>
 
@@ -45,8 +45,10 @@ Command version - v0.1.0
 ![6](https://github.com/saindhyan/internsctl/assets/87525527/0de0d73f-c4ea-4d91-ba25-1ea046acbb13)
 ## Command internsctl user list
 
--  user list              : List all regular users present on the server.
   ![7](https://github.com/saindhyan/internsctl/assets/87525527/4ab5badb-effb-4928-ba45-08037aa8c544)
+
+
+-  user list              : List all regular users present on the server.
 
 ## Commandi nternsctl user list --sudo-only
 
