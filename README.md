@@ -19,7 +19,6 @@ Command version - v0.1.0
 -  user list              : List all regular users present on the server.
 -  user list --sudo-only  : List all users with sudo permissions on the server.
     
-![1](https://github.com/saindhyan/internsctl/assets/87525527/b2f961fa-5262-4ea5-84a5-0b0d67752df5)
 
 
 ## Command internsctl --help
