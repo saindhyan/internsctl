@@ -56,7 +56,7 @@ Command version - v0.1.0
 ## Command internsctl file getinfo <file-name>
 
 -  file getinfo <file-name>            : Get File Info
-  ![8](https://github.com/saindhyan/internsctl/assets/87525527/a565f8af-c8a8-4280-9449-a072f33ea400)
+  ![8]
 
 ## Command internsctl file getinfo [options] <file-name>
 
