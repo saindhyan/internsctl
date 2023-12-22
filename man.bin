@@ -1,0 +1,36 @@
+.TH INTERNSCTL 1 "December 2023" "v0.1.0" "internsctl Manual"
+
+.SH NAME
+internsctl \- Custom Linux command for operations
+
+.SH SYNOPSIS
+.B internsctl
+[\fIOPTION\fR]
+
+.SH DESCRIPTION
+.PP
+\fBinternsctl\fR is a custom Linux command for performing various operations.
+
+.SH OPTIONS
+.PP
+.TP
+\fB\-\-help\fR
+Display help and examples.
+.TP
+\fB\-\-version\fR
+Display command version.
+
+.SH EXAMPLES
+.PP
+Display help and examples:
+.RS
+\fBinternsctl \-\-help\fR
+.RE
+.PP
+Display command version:
+.RS
+\fBinternsctl \-\-version\fR
+.RE
+
+.SH AUTHOR
+Piyush Saini.
